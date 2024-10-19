@@ -4,6 +4,5 @@ This repository has moved.
 
 https://github.com/mert-yigit/GISD
 
-Some examples are show belown:
 
 
